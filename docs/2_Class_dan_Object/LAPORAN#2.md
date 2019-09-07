@@ -63,7 +63,7 @@ Pada percobaan ini akan membuat program, bagian yang mendeklarasikan atribut dan
 
 Link: [Mahasiswa1841720004Bella.java](../../src/2_Class_dan_Object/Mahasiswa1841720004Bella.java)
 
-Link: [TestMahasiswa1841720004.java](../../src/2_Class_dan_Object/TestMahasiswa1841720004/java)
+Link: [TestMahasiswa1841720004.java](../../src/2_Class_dan_Object/TestMahasiswa1841720004.java)
 
 Pendeklarasian atribut di class Mahasiswa1841720004Bella adalah:
 1. public int nim;
