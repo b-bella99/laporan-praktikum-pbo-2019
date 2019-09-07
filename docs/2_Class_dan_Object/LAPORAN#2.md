@@ -119,11 +119,11 @@ Penjelasan:
 1. Harga yang harus dibayar diperoleh dari lama sewa x harga.
 2. Diasumsikan 1x transaksi peminjaman game yang dipinjam hanya 1 game saja."
 
-![peminjaman](../../docs/2_Class_dan_Object/img/peminjaman.PNG)
+![peminjaman](../../docs/2_Class_dan_Object/img/peminjaman.png)
 
 Program yang telah dibuat adalah sebagai berikut:
 
-![peminjaman1](../../docs/2_Class_dan_Object/img/Peminjaman1.PNG)
+![peminjaman1](../../docs/2_Class_dan_Object/img/peminjaman1.png)
 
 Link: [Peminjaman1841720004Bella.java](../../src/2_Class_dan_Object/Peminjaman1841720004Bella.java)
 
@@ -141,7 +141,7 @@ Link: [Lingkaran1841720004Bella.java](../../src/2_Class_dan_Object/Lingkaran1841
 
 3. Membuat program dari class diagram di bawah ini:
 
-![classDiagramBarang](../../docs/2_Class_dan_Object/img/ClassDiagramBarang.PNG)
+![classDiagramBarang](../../docs/2_Class_dan_Object/img/classDiagramBarang.PNG)
 
 Dengan ketentuan sebagai berikut:
 1. Nilai atribut hargaDasar dalam Rupiah dan atribut diskon dalam %
