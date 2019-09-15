@@ -74,7 +74,7 @@ Setter pada percobaan kali ini adalah: setMnamaBella(), setMalamatBella().
 Lalu untuk getter pada percobaan ini adalah: getMnamaBella(), getMalamatBella() dan getMsimpananBella().
 
 >**Kenapa msimpanan tidak mempunyai setter?**
-
+    
     Karena atribut msimpanan hanya akan bertambah ketika melakukan transaksi setor dan akan berkurang ketika melakukan peminjaman.
 
 Berikut adalah program dari class yang telah dibuat:
