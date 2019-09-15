@@ -36,7 +36,7 @@ Notasi akses modifier pada UML class diagram adalah sebagai berikut:
 ### Percobaan 1 - Enkapsulasi
 Pada percobaan 1, kita membuat sebuah class bernama Motor1841720004Bella dan class MotorDemo1841720004Bella yang terdapat dalam package yang bernama motorencapsulation. Namun pada percobaan 1 ini masih terdapat kejanggalan yang dimana pada saat kecepatan dapat berubah dari 0 menjadi 50, dan pada saat kecepatan 50 kondisi motor adalah off.Berikut adalah UML class diagram class Motor:
 
-![cd1](../../docs/3_Enkapsulasi/img/cd1.PNG)
+![cd1](../../docs/3_Enkapsulasi/img/cd1.png)
  
 Berikut adalah gambar program yang dibuat:
 
