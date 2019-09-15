@@ -34,7 +34,7 @@ Notasi akses modifier pada UML class diagram adalah sebagai berikut:
 ## Percobaan
 
 ### Percobaan 1 - Enkapsulasi
-Pada percobaan 1, kita membuat sebuah class bernama Motor1841720004Bella dan class MotorDemo1841720004Bella yang terdapat dalam package yang bernama motorencapsulation. Namun pada percobaan 1 ini masih terdapat kejanggalan yang dimana pada saat kecepatan dapat berubah dari 0 menjadi 50, dan pada saat kecepatan 50 kondisi motor adalah off.Berikut adalah UML class diagram class Motor:
+Pada percobaan 1, kita membuat sebuah class bernama Motor1841720004Bella dan class MotorDemo1841720004Bella yang terdapat dalam package yang bernama motorencapsulation. Namun pada percobaan 1 ini masih terdapat kejanggalan yang dimana pada saat kecepatan dapat berubah dari 0 menjadi 50, dan pada saat kecepatan 50 kondisi motor adalah off. Berikut adalah UML class diagram class Motor:
 
 ![cd1](../../docs/3_Enkapsulasi/img/cd1.png)
  
@@ -49,7 +49,7 @@ Link: [MotorDemo1841720004Bella.java](../../src/3_Enkapsulasi/MotorDemo184172000
 ### Percobaan 2 - Access Modifier
 Pada percobaan 2 ini, kita **memperbaiki** cara kerja class **Motor1841720004Bella** pada percobaan 1 yang telah saya duplikat classnya dengan nama **Motorr1841720004Bella** dan class **MotorDemo1841720004Bella** dengan nama class **MotorDemoo1841720004Bella**. 
 
-Lalu apa yang membedakan? Yang membedakan adalah pada saat kita menambah kecepatan pada saat kondisi Off, maka akan muncul notifikasi bahwa kondisinyta / mesin masih off. Berikut adalah UML class diagram Motor yang baru:
+Lalu apa yang membedakan? Yang membedakan adalah pada saat kita menambah kecepatan pada saat kondisi Off, maka akan muncul notifikasi bahwa kondisi mesin masih off. Berikut adalah UML class diagram Motor yang baru:
 
 ![cd2](../../docs/3_Enkapsulasi/img/cd2.PNG)
 
@@ -64,7 +64,7 @@ Link: [MotorDemoo1841720004Bella.java](../../src/3_Enkapsulasi/MotorDemoo1841720
 ### Percobaan 3 - Getter dan Setter
 Pada percobaan 3, kita membuat sebuah class bernama Anggota1841720004Bella dan KoperasiDemo1841720004Bella yang dimana pada percobaan ini kita akan membuat sebuah getter setter. 
 
->Apa itu getter setter?
+>**Apa itu getter setter?**
 
     Seter adalah suatu method untuk mengeset / memberi nilai pada atribut.
     Getter adalah suatu method yang digunakan untuk mengambil suatu nilai atribut.
@@ -73,7 +73,7 @@ Setter pada percobaan kali ini adalah: setMnamaBella(), setMalamatBella().
 
 Lalu untuk getter pada percobaan ini adalah: getMnamaBella(), getMalamatBella() dan getMsimpananBella().
 
->Kenapa msimpanan tidak mempunyai setter?
+>**Kenapa msimpanan tidak mempunyai setter?**
 
     Karena atribut msimpanan hanya akan bertambah ketika melakukan transaksi setor dan akan berkurang ketika melakukan peminjaman.
 
