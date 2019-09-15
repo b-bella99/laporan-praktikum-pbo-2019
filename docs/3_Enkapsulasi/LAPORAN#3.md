@@ -55,7 +55,7 @@ Lalu apa yang membedakan? Yang membedakan adalah pada saat kita menambah kecepat
 
 Berikut adalah gambar dari program tersebut:
 
-![motor2](../../docs/3_enkapsulasi/img/motor2.PNG)
+![motor2](../../docs/3_Enkapsulasi/img/motor2.PNG)
 
 Link: [Motorr1841720004Bella.java](../../src/3_Enkapsulasi/Motorr1841720004Bella.java)
 
