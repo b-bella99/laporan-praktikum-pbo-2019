@@ -60,9 +60,9 @@ Link: [KeretaApi1841720004Bella.java](../../src/4_Relasi_Class/KeretaApi18417200
 Link: [MainPercobaan31841720004Bella.java](../../src/4_Relasi_Class/MainPercobaan31841720004Bella.java)
 
 ### Percobaan 4
-Pada percobaan 4 ini, kita membuat sebuah class bernama Penumpang1841720004Bella, Kursi1841720004Bella dan Gercong1841720004Bella. Tidak lupa membuat class main yang bernama MainPercobaan41841720004Bella. Berikut adalah UML class diagram dari  Penumpang1841720004Bella, Kursi1841720004Bella dan Gercong1841720004Bella:
+Pada percobaan 4 ini, kita membuat sebuah class bernama Penumpang1841720004Bella, Kursi1841720004Bella dan Gerbong1841720004Bella. Tidak lupa membuat class main yang bernama MainPercobaan41841720004Bella. Berikut adalah UML class diagram dari  Penumpang1841720004Bella, Kursi1841720004Bella dan Gercong1841720004Bella:
 
-![UML class diagram Penumpang1841720004Bella, Kursi1841720004Bella dan Gercong1841720004Bella](../../docs/4_Relasi_Class/img/UML4.png)
+![UML class diagram Penumpang1841720004Bella, Kursi1841720004Bella dan Gerbong1841720004Bella](../../docs/4_Relasi_Class/img/UML4.png)
 
 Dan berikut adalah hasil dari program yang telah dibuat:
 
