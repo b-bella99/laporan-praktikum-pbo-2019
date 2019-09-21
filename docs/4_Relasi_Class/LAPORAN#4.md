@@ -15,7 +15,7 @@ Contoh enkapsulasi: getter dan setter
 ### Percobaan 1
 Pada percobaan 1 ini, kita membuat sebuah class bernama Laptop1841720004Bella, MainPercobaan11841720004Bella dan Processor1841720004Bella. Yang dimana kedua class tersebut mempunyai relasi, dapat dilihat di bawah ini:
 
-![UML class diagram Laptop1841720004Bella dan Processor1841720004Bella beserta relasinya](../../docs/4_Relasi_Class/img/UML1.PNG)
+![UML class diagram Laptop1841720004Bella dan Processor1841720004Bella beserta relasinya](../../docs/4_Relasi_Class/img/UML1.png)
 
 Berikut program yang sudah di buat:
 
@@ -30,7 +30,7 @@ Link: [MainPercobaan11841720004Bella.java](../../src/4_Relasi_Class/MainPercobaa
 ### Percobaan 2
 Pada percobaan 2, kita membuat sebuah class Sopir1841720004Bella, Mobil1841720004Bella dan Pelanggan1841720004Bella dari class diagram di bawah ini, dan tidak lupa sebuah class MainPercobaan21841720004Bella sebagai class main-nya:
 
-![UML class diagram Sopir1841720004Bella, Mobil1841720004Bella dan Pelanggan1841720004Bella](../../docs/4_Relasi_Class/img/UML2.PNG)
+![UML class diagram Sopir1841720004Bella, Mobil1841720004Bella dan Pelanggan1841720004Bella](../../docs/4_Relasi_Class/img/UML2.png)
 
 Berikut adalah hasil program yang telah di buat:
 
@@ -47,7 +47,7 @@ Link: [MainPercobaan21841720004Bella.java](../../src/4_Relasi_Class/MainPercobaa
 ### Percobaan 3
 Pada percobaan 3 ini, kita membuat sebuah class bernama Pegawai1841720004Bella dan KeretaApi1841720004Bella, tidak lupa juga membuat sebuah class main-nya yang bernama MainProgram1841720004Bella. Berikut adalah class diagram-nya:
 
-![UML Class diagram percobaan 3](../../docs/4_Relasi_Class/img/UML3.PNG)
+![UML Class diagram percobaan 3](../../docs/4_Relasi_Class/img/UML3.png)
 
 Berikut adalah hasil programnya:
 
@@ -62,7 +62,7 @@ Link: [MainPercobaan31841720004Bella.java](../../src/4_Relasi_Class/MainPercobaa
 ### Percobaan 4
 Pada percobaan 4 ini, kita membuat sebuah class bernama Penumpang1841720004Bella, Kursi1841720004Bella dan Gercong1841720004Bella. Tidak lupa membuat class main yang bernama MainPercobaan41841720004Bella. Berikut adalah UML class diagram dari  Penumpang1841720004Bella, Kursi1841720004Bella dan Gercong1841720004Bella:
 
-![UML class diagram Penumpang1841720004Bella, Kursi1841720004Bella dan Gercong1841720004Bella](../../docs/4_Relasi_Class/img/UML4.PNG)
+![UML class diagram Penumpang1841720004Bella, Kursi1841720004Bella dan Gercong1841720004Bella](../../docs/4_Relasi_Class/img/UML4.png)
 
 Dan berikut adalah hasil dari program yang telah dibuat:
 
