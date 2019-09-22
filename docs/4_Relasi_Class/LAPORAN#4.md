@@ -8,7 +8,26 @@ Setelah menempuh pokok bahasan ini, mahasiswa mampu:
 ## Ringkasan Materi
 Contoh enkapsulasi: getter dan setter
 
+Jenis relasi antar class
+- Depedence (use-a) = merupaka relasi yang paling jelas dan paling umum.
+- Aggregation (has-a) = merupakan relasi yang mudah dimegerti karena relasi ini konkret.
+- Inheritance (is-a) = merupakan relasi yang mengekspresikan hubungan antara class yang lebih khusus dan yang lebih umum.
 
+Berikut adalah gambar connector relasi antar class tersebut:
+
+![ConnectorRelasi](../../docs/4_Relasi_Class/img/ConnectorRelasi.png)
+
+Ada kalanya relasi tidak dinyatakan dalam *one-to-one*, ada juga yang melibatkan lebih dari satu (multiplicity). Berikut adalah keterangan lebih rinci mengenai multiplicity:
+
+|  |  |
+|--|--|
+| **Multiplicity** | **Keterangan** |
+| 0..1 | 0 atau 1 instance |
+| 1 | Tepat 1 instance |
+| 0..* | 0 atau lebih instance |
+| 1..* | Setidaknya 1 instance |
+| n | Tepat n instance (n diganti dengan sebuah angka) |
+| m..n | Setidaknya m instance, tapi tidak lebih dari n |
 
 ## Percobaan
 
@@ -109,13 +128,11 @@ Link: [MainPercobaan41841720004Bella.java](../../src/4_Relasi_Class/MainPercobaa
 
 6. Pada class MainPercobaan1, terdapat baris kode:
 
-    Laptop l = new Laptop("Thinkpad", p);.
+        Laptop l = new Laptop("Thinkpad", p);.
 
-    Apakah p tersebut ?
+    Apakah p tersebut ? Dan apakah yang terjadi jika baris kode tersebut diubah menjadi:
 
-    Dan apakah yang terjadi jika baris kode tersebut diubah menjadi:
-
-    Laptop l = new Laptop("Thinkpad", new Processor("Intel i5",3));
+        Laptop l = new Laptop("Thinkpad", new Processor("Intel i5",3));
 
     Bagaimanakah hasil program saat dijalankan, apakah ada perubahan ?
 
@@ -168,7 +185,7 @@ Link: [MainPercobaan41841720004Bella.java](../../src/4_Relasi_Class/MainPercobaa
 
 12. Perhatikan class MainPercobaan2, coba tambahkan pada baris terakhir dari method main dan amati perubahan saat di‑run!
 
-    System.out.println(p.getmMobilBella().getmNamaBella());
+        System.out.println(p.getmMobilBella().getmNamaBella());
 
     Jadi untuk apakah sintaks p.getmMobilBella().getmNamaBella() yang ada di dalam method main tersebut?
 
@@ -266,10 +283,29 @@ Link: [MainPercobaan41841720004Bella.java](../../src/4_Relasi_Class/MainPercobaa
     Link: [Gerbong1841720004Bella1.java](../../src/4_Relasi_Class/Gerbong1841720004Bella1.java)
 
 ## Tugas
+Buatlah sebuah studi kasus, rancang dengan class diagram, kemudian implementasikan ke dalam program! Studi kasus harus mewakili relasi class dari percobaan‑percobaan yang telah dilakukan pada materi ini, setidaknya melibatkan **minimal 4 class** (class yang berisi main tidak dihitung).
+
+**Jawaban:**
+
+Saya membuat sebuah Rumah Sakit, yang dimana memiliki class RumahSakit1841720004Bella, Dokter1841720004Bella, Ruangan1841720004Bella dan Pasien1841720004Bella. Dan tidak lupa class main yang bernama MainTugas1841720004Bella, untuk mengisi data pada class main saya menggunakan Scanner yang dimana user dapat memasukkan data sesuai dengan keinginannya. Berikut adalah UML class diagram-nya:
+
+![UML kasus Rumah Sakit](../../docs/4_Relasi_Class/img/UMLTugas.PNG)
+
+Dan berikut adalah hasil program yang telah saya buat:
+
+![Hasil dari program yang sudah saya buat (Rumah Sakit)](../../docs/4_Relasi_Class/img/HasilTugas.PNG)
+
+Link: [RumahSakit1841720004Bella.java](../../src/4_Relasi_Class/RumahSakit1841720004Bella.java)
+
+Link: [Dokter1841720004Bella.java](../../src/4_Relasi_Class/Dokter1841720004Bella.java)
+
+Link: [Ruangan1841720004Bella.java](../../src/4_Relasi_Class/Ruangan1841720004Bella.java)
+
+Link: [Pasien1841720004Bella.java](../../src/4_Relasi_Class/Pasien1841720004Bella.java)
 
 ## Kesimpulan
 
-Dari percobaan diatas, telah dipelajari bahwa suatu class dapat memiliki suatu hubungan atau relasi (has-a). Relasi antar kelas lain disebut dependensi (use-a) dan inheritance (is-a).
+Dari percobaan diatas, telah dipelajari bahwa suatu class dapat memiliki suatu hubungan atau relasi (has-a), relasi antar kelas lain disebut dependensi (use-a) dan inheritance (is-a). Dan suatu relasi dapat memiliki lebih dari satu hubungan yang di sebut juga multiplicity.
 
 ## Pernyataan Diri
 
