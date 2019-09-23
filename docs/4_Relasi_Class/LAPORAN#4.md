@@ -15,7 +15,7 @@ Jenis relasi antar class
 
 Berikut adalah gambar connector relasi antar class tersebut:
 
-![ConnectorRelasi](../../docs/4_Relasi_Class/img/ConnectorRelasi.png)
+![ConnectorRelasi](../../docs/4_Relasi_Class/img/ConnectorRelasi.PNG)
 
 Ada kalanya relasi tidak dinyatakan dalam *one-to-one*, ada juga yang melibatkan lebih dari satu (multiplicity). Berikut adalah keterangan lebih rinci mengenai multiplicity:
 
@@ -289,7 +289,7 @@ Buatlah sebuah studi kasus, rancang dengan class diagram, kemudian implementasik
 
 Saya membuat sebuah Rumah Sakit, yang dimana memiliki class RumahSakit1841720004Bella, Dokter1841720004Bella, Ruangan1841720004Bella dan Pasien1841720004Bella. Dan tidak lupa class main yang bernama MainTugas1841720004Bella, untuk mengisi data pada class main saya menggunakan Scanner yang dimana user dapat memasukkan data sesuai dengan keinginannya. Berikut adalah UML class diagram-nya:
 
-![UML kasus Rumah Sakit](../../docs/4_Relasi_Class/img/UMLTugas.PNG)
+![UML kasus Rumah Sakit](../../docs/4_Relasi_Class/img/UMLTugas.png)
 
 Dan berikut adalah hasil program yang telah saya buat:
 
