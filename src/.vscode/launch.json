@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Percobaan31841720004Bella",
+            "request": "launch",
+            "mainClass": "bella.inheritance.percobaan3.Percobaan31841720004Bella"
+        }
+    ]
+}
