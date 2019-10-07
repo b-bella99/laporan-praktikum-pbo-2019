@@ -343,7 +343,7 @@ Link: [Inheritance11841720004Bellas.java](../../src/6_Inheritance/Inheritance118
 
 
 ## Kesimpulan
-Pada praktikum ini, kita membuat berbagai macam class. Ynag dimana class tersebut mengimplementasikan single inheritance dan multilevel inheritance. Dan pada percobaan kali ini, kita belajar cara memanggil / meng-akses / merujuk ke class parent atau super class. Kita juga belajar mengenai perbedaan superclass dan subclass.
+Pada praktikum ini, kita membuat berbagai macam class. Yang dimana class tersebut mengimplementasikan single inheritance dan multilevel inheritance. Dan pada percobaan kali ini, kita belajar cara memanggil / meng-akses / merujuk ke class parent atau super class. Kita juga belajar mengenai perbedaan superclass dan subclass.
 
 ## Pernyataan Diri
 
