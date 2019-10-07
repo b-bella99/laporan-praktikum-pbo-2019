@@ -91,7 +91,7 @@ Link: [Percobaan41841720004Bella.java](../../src/6_Inheritance/Percobaan41841720
 ### Percobaan 5
 Pada percobaan 5, kita menbuat sebuah class Karyawan1841720004Bella (parent), class Manajer1841720004Bella (anak), class Staff1841720004Bella (anak) dan juga class Inheritance11841720004Bella (main) Dari class diagram berikut:
 
-![Class diagram percobaan 5](../../docs/6_Inheritance/img/Cd_5.PNG)
+![Class diagram percobaan 5](../../docs/6_Inheritance/img/Cd_5.png)
 
 Berikut hasil programnya:
 
@@ -108,7 +108,7 @@ Link: [Inheritance11841720004Bella.java](../../src/6_Inheritance/Inheritance1184
 ### Percobaan 6
 Pada percobaan 6, kita membuat sebuah class tambahan bernama StaffTetap1841720004Bellas dan StaffHarian1841720004Bellas yang dimana merupakan tambahan dari percobaan ke 5, yang dimana terdapat perubahan pada class Inheritance11841720004Bella yang sudah beri nama baru yaitu Inheritance11841720004Bellas. Berikut adalah gambar dari Class Diagramnya:
 
-![Class diagram percobaan 6](../../docs/6_Inheritance/img/Cd_6.PNG)
+![Class diagram percobaan 6](../../docs/6_Inheritance/img/Cd_6.png)
 
 Berikut adalah hasil program yang sudah dijalankan:
 
@@ -321,7 +321,7 @@ Link: [Inheritance11841720004Bellas.java](../../src/6_Inheritance/Inheritance118
 ## Tugas
 1.	Buatlah sebuah program dengan konsep pewarisan seperti pada class diagram berikut ini. Kemudian buatlah instansiasi objek untuk menampilkan data pada class Mac1841720004Bella, Windows1841720004Bella dan Pc1841720004Bella!.
 
-    ![Class diagram tugas](../../docs/6_Inheritance/img/Cd_Tugas.PNG)
+    ![Class diagram tugas](../../docs/6_Inheritance/img/Cd_Tugas.png)
 
     **Jawaban:**
 
