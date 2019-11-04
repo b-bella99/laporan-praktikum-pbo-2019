@@ -24,35 +24,35 @@ Casting objek digunakan untuk mengubah tipe dari suatu objek. Jika ada suatu obj
 ### Percobaan 1 - Bentuk dasar polimorfisme
 Pada percobaan ini kita akan membuat sebuah class Employee1841720004Bella (parent), IntershipEmployee1841720004Bella (child 1), PermanentEmployee184172004Bella(child 2), IPayable1841720004Bella (interface), ElectricityBill1841720004Bella dan juga class main bernama Tester11841720004Bella. Berikut adalah hasil program praktikum 1:
 
-![Hasil percobaan 1](../../docs/10_polimorfisme/img/tester1.png)
+![Hasil percobaan 1](../../docs/10_Polimorfisme/img/tester1.png)
 
-Link: [Employee1841720004Bella.java](../../src/10_polimorfisme/Employee1841720004Bella.java)
+Link: [Employee1841720004Bella.java](../../src/10_Polimorfisme/Employee1841720004Bella.java)
 
-Link: [IntershipEmployee1841720004Bella.java](../../src/10_polimorfisme/IntershipEmployee1841720004Bella.java)
+Link: [IntershipEmployee1841720004Bella.java](../../src/10_Polimorfisme/IntershipEmployee1841720004Bella.java)
 
-Link: [PermanentEmployee1841720004Bella.java](../../src/10_polimorfisme/PermanentEmployee1841720004Bella.java)
+Link: [PermanentEmployee1841720004Bella.java](../../src/10_Polimorfisme/PermanentEmployee1841720004Bella.java)
 
-Link: [IPayable1841720004Bella.java](../../src/10_polimorfisme/IPayable1841720004Bella.java)
+Link: [IPayable1841720004Bella.java](../../src/10_Polimorfisme/IPayable1841720004Bella.java)
 
-Link: [ElectricityBill1841720004Bella.java](../../src/10_polimorfisme/ElectricityBill1841720004Bella.java)
+Link: [ElectricityBill1841720004Bella.java](../../src/10_Polimorfisme/ElectricityBill1841720004Bella.java)
 
-Link: [Tester11841720004Bella.java](../../src/10_polimorfisme/Tester11841720004Bella.java)
+Link: [Tester11841720004Bella.java](../../src/10_Polimorfisme/Tester11841720004Bella.java)
 
 ### Percobaan 2 - Virtual method invocation
 
 Pada percobaan ini, kita menambahkan class bernama Tester21841720004Bella. Berikut adalah hasil dari program Tester218417120004Bella:
 
-![Hasil percobaan 2](../../docs/10_polimorfisme/img/tester2.png)
+![Hasil percobaan 2](../../docs/10_Polimorfisme/img/tester2.png)
 
-Link: [Tester21841720004Bella.java](../../src/10_polimorfisme/Tester21841720004Bella.java)
+Link: [Tester21841720004Bella.java](../../src/10_Polimorfisme/Tester21841720004Bella.java)
 
 ### Percobaan 3 – Heterogenous Collection
 
 Pada percobaan ini, kita masih menggunakan class yang sudah dibuat sebelumnya. Dan kita menambahkan suatu class bernama Tester31841720004Bella. Berikut adalah hasil dari percobaan 3 setelah dibetulkan:
 
-![Hasil percobaan 3](../../docs/10_polimorfisme/img/tester3.png)
+![Hasil percobaan 3](../../docs/10_Polimorfisme/img/tester3.png)
 
-Link: [Tester31841720004Bella.java](../../src/10_polimorfisme/Tester31841720004Bella.java)
+Link: [Tester31841720004Bella.java](../../src/10_Polimorfisme/Tester31841720004Bella.java)
 
 Note: yang dibenarkan yaitu menghapus objek eBill di Employee18417200004Bella e2[]. Mengapa dihapus? Karena eBill bukan anak dari class Employee1841720004Bella, sehingga jika dibiarkan akan menimbulkan error.
 
@@ -60,11 +60,11 @@ Note: yang dibenarkan yaitu menghapus objek eBill di Employee18417200004Bella e2
 
 Pada percobaan ini, kita masih menggunakan class yang sudah dibuat di atas dan kita hanya menambahkan class Owner1841720004Bella dan class Tester41841720004Bella. Berikut adalah hasil dari percobaan 4:
 
-![Hasil percobaan 4](../../docs/10_polimorfisme/img/tester4.png)
+![Hasil percobaan 4](../../docs/10_Polimorfisme/img/tester4.png)
 
-Link: [Owner1841720004Bella.java](../../src/10_polimorfisme/Owner1841720004Bella.java)
+Link: [Owner1841720004Bella.java](../../src/10_Polimorfisme/Owner1841720004Bella.java)
 
-Link: [Tester41841720004Bella.java](../../src/10_polimorfisme/Tester41841720004Bella.java)
+Link: [Tester41841720004Bella.java](../../src/10_Polimorfisme/Tester41841720004Bella.java)
 
 ## Pertanyaan
 1. Class apa sajakah yang merupakan turunan dari class **Employee1841720004Bella**? 
@@ -207,23 +207,23 @@ health akan bertambah 50%
 
 Buat program dari class diagram di bawah ini!
 
-![zombie](../../docs/10_polimorfisme/img/zombie.png)
+![zombie](../../docs/10_Polimorfisme/img/zombie.png)
 
 Berikut adalah hasil dari program yang sudah di buat:
 
-![hasil tugas zombie](../../docs/10_polimorfisme/img/tugas.png)
+![hasil tugas zombie](../../docs/10_Polimorfisme/img//tugas.png)
 
-Link: [Zombie1841720004Bella.java](../../src/10_polimorfisme/Zombie1841720004Bella.java)
+Link: [Zombie1841720004Bella.java](../../src/10_Polimorfisme/Zombie1841720004Bella.java)
 
-Link: [WalkingZombie1841720004Bella.java](../../src/10_polimorfisme/WalkingZombie1841720004Bella.java)
+Link: [WalkingZombie1841720004Bella.java](../../src/10_Polimorfisme/WalkingZombie1841720004Bella.java)
 
-Link: [JumpingZombie1841720004Bella.java](../../src/10_polimorfisme/JumpingZombie1841720004Bella.java)
+Link: [JumpingZombie1841720004Bella.java](../../src/10_Polimorfisme/JumpingZombie1841720004Bella.java)
 
-Link: [Barrier1841720004Bella.java](../../src/10_polimorfisme/Barrier1841720004Bella.java)
+Link: [Barrier1841720004Bella.java](../../src/10_Polimorfisme/Barrier1841720004Bella.java)
 
-Link: [Plant1841720004Bella.java](../../src/10_polimorfisme/Plant1841720004Bella.java)
+Link: [Plant1841720004Bella.java](../../src/10_Polimorfisme/Plant1841720004Bella.java)
 
-Link: [Tester1841720004Bella.java](../../src/10_polimorfisme/Tester1841720004Bella.java)
+Link: [Tester1841720004Bella.java](../../src/10_Polimorfisme/Tester1841720004Bella.java)
 
 ## Kesimpulan
 
