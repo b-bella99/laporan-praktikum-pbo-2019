@@ -1,4 +1,4 @@
- Praktikum #12 - Java API
+# Laporan Praktikum #12 - Java API
 
 ## Kompetensi
 1. Memahami cara penyimpanan objek menggunakan Collection dan Map.
@@ -8,6 +8,15 @@
 5. Memahami koneksi database menggunakan JDBC dan JDBC API
 
 ## Ringkasan Materi
+Collection adalah suatu objek yang bisa digunakan untuk menyimpan sekumpulan objek.
+Objek yang ada dalam Collection disebut elemen. Collection menyimpan data bertipe objek. Class-class Collection diletakkan dalam package java.util dan mempunyai dua interface utama yaitu Collection. Collection terbagi menjadi 3 kelompok yaitu:
+1. Set = Set mengikuti model himpunan, dimana objek/anggota yang tersimpan dalam Set harus unik. 
+2. List = List digunakan untuk menyimpan sekumpulan objek berdasarkan urutan masuk (ordered) dan menerima duplikat.
+3. Map = interface yang memiliki fungsi untuk memetakan nilai dengan key unik.
+4. JDBC API, terdiri dari satu set kelas dan interface yang digunakan untuk berinteraksi dengan database dari aplikasi Java. Umumnya, JDBC API melakukan 3 (tiga) fungsi berikut :
+- Membangun koneksi antara aplikasi Java dan database
+- Membangun dan mengeksekusi query
+- Memproses hasil
 
 ## Percobaan
 ### Percobaan 1 - Set
@@ -47,7 +56,11 @@ Pada percobaan ini, kita membuat aplikasi biodata yang dimana kita menyambungkan
 
 Berikut adalah hasilnya: 
 
+![Hasil percobaan 5](../../docs/12_Java_API/img/hasil5.png)
 
+Link: [FormKoneksi1841720004Bella.java](../../src/12_Java_API/FormKoneksi1841720004Bella.java)
+
+Link: [FormKoneksi1841720004Bella.form](../../src/12_Java_API/FormKoneksi1841720004Bella.form)
 
 ## Pertanyaan
 1. Apakah fungsi import java.util.*; pada program diatas!
@@ -183,9 +196,22 @@ mengapa terjadi error!
 
     Menambahkan data ke table anggota yang dimana didapat dari textfield dengan variable jTFNama, jTFAlamat, jTFTelepon.
 
-18. Buat Table model yang digunakan untuk memanipulasi tampilan pada Jtable, seperti pada code dibawah ini:
+18. Jelaskan alur dari method ambil_data_tabelBella?
 
-    ![Pertanyaan 18](../../docs/12_Java_API/img/pertanyaan_percobaan5.png)
+    **Jawaban:**
+
+    Mendapatkan variasi tipe data di JTable, kemudian menghapus seluruh elemen. Setelah itu memberitahu semua listener bahwa semua nilai sel dalam baris tabel mungkin telah berubah. Kemudian akan mengeksekusi try-catch, yang dimana dalam try akan membuka koneksi ke MySQL dan akan menampilkan isi dari tabel anggota. Dan di dalam catch akan menampilkan pesan error ketika disaat menampilkan data terjadi kesalahan. 
+
+19. Buat fungsi untuk merefresh sehingga data yang baru dapat ditampilkan pada tabel 2.
+
+    **Jawaban:**
+
+    Script yang ditambahkan sebagai berikut:
+
+        private void jButtonRefreshActionPerformed(java.awt.event.ActionEvent evt) {                                               
+            // TODO add your handling code here:
+            ambil_data_tabelBella();
+        }
 
 ## Kesimpulan
 Pada jobsheet kali ini, kita mempelajari tentang penyimpanan objek menggunakan collection dan map, pengelompokan dari collection, perbedaan interface Set, List dan Map, penggunaan class-class dari interface Set, List dan Map, dan juga koneksi database menggunakan JDBC API (mysql).
