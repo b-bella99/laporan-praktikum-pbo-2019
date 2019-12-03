@@ -141,6 +141,18 @@ Link: [FrmBuku1841720004Bella.form](../../src/14_GUI_dan_Database/FrmBuku1841720
 
     Pada textbox ID Anggota, pengguna tinggal memasukkan ID anggota, kemudian menekan tombol Cari. Jika ketemu, maka label “Nama Anggota” yang ada di samping tombol Cari tersebut akan menampilkan nama anggota dari ID yang dimasukkan tadi. Begitu juga dengan ID Buku.
 
+    **Jawaban:**
+
+    [Hasil Tugas peminjaman GUI](../../docs/14_GUI_dan_Database/img/tugas_hasil.png)
+
+    Link: [Peminjaman1841720004Bella.java](../../src/14_GUI_dan_Database/Peminjaman1841720004Bella.java)
+
+    Link: [TestBackendPeminjaman1841720004Bella.java](../../src/14_GUI_dan_Database/TestBackendPeminjaman1841720004Bella.java)
+
+    Link: [FrmPeminjaman1841720004Bella.java](../../src/14_GUI_dan_Database/FrmPeminjaman1841720004Bella.java)
+
+    Link: [FrmPeminjaman1841720004Bella.form](../../src/14_GUI_dan_Database/FrmPeminjaman1841720004Bella.form)
+
 ## Kesimpulan
 Pada jobsheet ini, kita belajar mengenai GUI dan database pada netbeans yang dimana kita mengolah sebuah database melalui GUI netbeans (CRUD). Jobsheet ini juga mengajarkan tentang backend dan frontend pada netbeans.
 
