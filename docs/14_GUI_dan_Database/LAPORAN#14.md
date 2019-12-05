@@ -125,15 +125,15 @@ Link: [FrmBuku1841720004Bella.form](../../src/14_GUI_dan_Database/FrmBuku1841720
 
     **Jawaban:**
 
-    [Tugas peminjaman](../../docs/14_GUI_dan_Database/img/tugas_peminjaman.png)
+    ![Tugas peminjaman](../../docs/14_GUI_dan_Database/img/tugas_peminjaman.png)
 
 2. Buatlah form FrmPeminjaman1841720004Bella dan susun sebagai berikut:
 
-    [Tugas](../../docs/14_GUI_dan_Database/img/tugas.png)
+    ![Tugas](../../docs/14_GUI_dan_Database/img/tugas.png)
 
     **Jawaban:**
 
-    [Tugas peminjaman GUI](../../docs/14_GUI_dan_Database/img/tugas_gui.png)
+    ![Tugas peminjaman GUI](../../docs/14_GUI_dan_Database/img/tugas_gui.png)
 
 3. Atur kode program agar dapat menangani transaksi peminjaman dan pengembalian. 
 
@@ -143,7 +143,7 @@ Link: [FrmBuku1841720004Bella.form](../../src/14_GUI_dan_Database/FrmBuku1841720
 
     **Jawaban:**
 
-    [Hasil Tugas peminjaman GUI](../../docs/14_GUI_dan_Database/img/tugas_hasil.png)
+    ![Hasil Tugas peminjaman GUI](../../docs/14_GUI_dan_Database/img/tugas_hasil.png)
 
     Link: [Peminjaman1841720004Bella.java](../../src/14_GUI_dan_Database/Peminjaman1841720004Bella.java)
 
