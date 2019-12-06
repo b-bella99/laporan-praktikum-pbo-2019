@@ -28,7 +28,7 @@ Link: [TestRunner1841720004Bella.java](../../src/15_Unit_Testing/test/java/unitt
 
 ### Percobaan 2 - Unit Testing dengan Test Case
 
-Pada percobaan kedua kita akan mencoba membuat test case dari salah satu percobaan pada jobsheet minggu ke 14. Struktur file dari percobaan ke satu terdiri dari 4 file class yaitu DBHelper1841720004Bella.java, FormKategori1841720004Bella.java, Kategori1841720004Bella.java dan TestBackend1841720004Bella.java. 
+Pada percobaan kedua kita akan mencoba membuat test case dari salah satu percobaan pada jobsheet minggu ke 14. Struktur file dari percobaan ke satu terdiri dari 4 file class yaitu DBHelper1841720004Bella.java, FrmKategori1841720004Bella.java, Kategori1841720004Bella.java dan TestBackend1841720004Bella.java. 
 
 Ada beberapa step yang harus dilakukan agar percobaan 2 ini berjalan dengan lancar dan tanpa kebingungan:
 
@@ -69,7 +69,7 @@ Link:[DBHelper1841720004Bella.java](../../src/15_Unit_Testing/main/java/unittest
 
 Link: [Kategori1841720004Bella.java](../../src/15_Unit_Testing/main/java/unittest/database/Kategori1841720004Bella.java)
 
-Link: [FormKategori1841720004Bella.java](../../src/15_Unit_Testing/main/java/unittest/database/FormKategori1841720004Bella.java)
+Link: [FrmKategori1841720004Bella.java](../../src/15_Unit_Testing/main/java/unittest/database/FrmKategori1841720004Bella.java)
 
 Link: [TestBackend1841720004Bella.java](../../src/15_Unit_Testing/main/java/unittest/database/TestBackend1841720004Bella.java)
 
@@ -117,7 +117,7 @@ Berikut adalah hasil program yang saya buat:
 
 Link: (Anggota1841720004Bella.java)[../../src/15_Unit_Testing/main/java/unittest/database/Anggota1841720004Bella.java]
 
-Link: (FormAnggota1841720004Bella.java)[../../src/15_Unit_Testing/main/java/unittest/database/FormAnggota1841720004Bella.java]
+Link: (FrmAnggota1841720004Bella.java)[../../src/15_Unit_Testing/main/java/unittest/database/FrmAnggota1841720004Bella.java]
 
 Link: (TestBackendAnggota1841720004Bella.java)[../../src/15_Unit_Testing/main/java/unittest/database/TestBackendAnggota1841720004Bella.java]
 
