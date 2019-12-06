@@ -115,11 +115,11 @@ Berikut adalah hasil program yang saya buat:
 
 ![Hasil program](../../docs/15_Unit_Testing/img/hasiltugas.png)
 
-Link: (Anggota1841720004Bella.java)[../../src/15_Unit_Testing/main/java/unittest/database/Anggota1841720004Bella.java]
+Link: [Anggota1841720004Bella.java](../../src/15_Unit_Testing/main/java/unittest/database/Anggota1841720004Bella.java)
 
-Link: (FrmAnggota1841720004Bella.java)[../../src/15_Unit_Testing/main/java/unittest/database/FrmAnggota1841720004Bella.java]
+Link: [FrmAnggota1841720004Bella.java](../../src/15_Unit_Testing/main/java/unittest/database/FrmAnggota1841720004Bella.java)
 
-Link: (TestBackendAnggota1841720004Bella.java)[../../src/15_Unit_Testing/main/java/unittest/database/TestBackendAnggota1841720004Bella.java]
+Link: [TestBackendAnggota1841720004Bella.java](../../src/15_Unit_Testing/main/java/unittest/database/TestBackendAnggota1841720004Bella.java)
 
 Link: [TestRunnerAnggota1841720004Bella.java](../../src/15_Unit_Testing/test/java/unittest/TestRunnerAnggota1841720004Bella.java) 
 
