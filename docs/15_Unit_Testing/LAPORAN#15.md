@@ -65,13 +65,13 @@ Berikut ini adalah hasil dari program yang sudah saya buat:
 
 ![Percobaan 2 - Unit Testing dengan Test Case](../../docs/15_Unit_Testing/img/percobaan2.png)
 
-Link: (DBHelper1841720004Bella.java)[../../src/15_Unit_Testing/main/java/unittest/database/DBHelper1841720004Bella.java]
+Link:[DBHelper1841720004Bella.java](../../src/15_Unit_Testing/main/java/unittest/database/DBHelper1841720004Bella.java)
 
-Link: (Kategori1841720004Bella.java)[../../src/15_Unit_Testing/main/java/unittest/database/Kategori1841720004Bella.java]
+Link: [Kategori1841720004Bella.java](../../src/15_Unit_Testing/main/java/unittest/database/Kategori1841720004Bella.java)
 
-Link: (FormKategori1841720004Bella.java)[../../src/15_Unit_Testing/main/java/unittest/database/FormKategori1841720004Bella.java]
+Link: [FormKategori1841720004Bella.java](../../src/15_Unit_Testing/main/java/unittest/database/FormKategori1841720004Bella.java)
 
-Link: (TestBackend1841720004Bella.java)[../../src/15_Unit_Testing/main/java/unittest/database/TestBackend1841720004Bella.java]
+Link: [TestBackend1841720004Bella.java](../../src/15_Unit_Testing/main/java/unittest/database/TestBackend1841720004Bella.java)
 
 Link: [TestRunner1841720004Bella1.java](../../src/15_Unit_Testing/test/java/unittest/TestRunner1841720004Bella1.java)
 
