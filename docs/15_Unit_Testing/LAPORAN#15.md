@@ -69,6 +69,8 @@ Link:[DBHelper1841720004Bella.java](../../src/15_Unit_Testing/main/java/unittest
 
 Link: [Kategori1841720004Bella.java](../../src/15_Unit_Testing/main/java/unittest/database/Kategori1841720004Bella.java)
 
+Link: [Kategori1841720004BellaTest.java](../../src/15_Unit_Testing/test/java/unittest/database/Kategori1841720004BellaTest.java)
+
 Link: [FrmKategori1841720004Bella.java](../../src/15_Unit_Testing/main/java/unittest/database/FrmKategori1841720004Bella.java)
 
 Link: [TestBackend1841720004Bella.java](../../src/15_Unit_Testing/main/java/unittest/database/TestBackend1841720004Bella.java)
@@ -116,6 +118,8 @@ Berikut adalah hasil program yang saya buat:
 ![Hasil program](../../docs/15_Unit_Testing/img/hasiltugas.png)
 
 Link: [Anggota1841720004Bella.java](../../src/15_Unit_Testing/main/java/unittest/database/Anggota1841720004Bella.java)
+
+Link: [Anggota1841720004BellaTest.java](../../src/15_Unit_Testing/test/java/unittest/database/Anggota1841720004BellaTest.java)
 
 Link: [FrmAnggota1841720004Bella.java](../../src/15_Unit_Testing/main/java/unittest/database/FrmAnggota1841720004Bella.java)
 
